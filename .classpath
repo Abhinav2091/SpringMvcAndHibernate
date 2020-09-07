@@ -97,7 +97,9 @@
 	<classpathentry kind="lib" path="F:/Spring hibernate/workspace/SpringMvcAndHibernate/WebContent/WEB-INF/lib/stax-ex-1.8.jar"/>
 	<classpathentry kind="lib" path="F:/Spring hibernate/workspace/SpringMvcAndHibernate/WebContent/WEB-INF/lib/txw2-2.3.1.jar"/>
 	<classpathentry kind="lib" path="F:/Spring hibernate/workspace/SpringMvcAndHibernate/WebContent/WEB-INF/lib/validation-api-2.0.1.Final.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+	<classpathentry kind="lib" path="F:/Spring hibernate/workspace/SpringMvcAndHibernate/WebContent/WEB-INF/lib/aspectjweaver-1.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abhinav/Desktop/servlet-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0 (2)">
 		<attributes>
 			<attribute name="owner.project.facets" value="jst.web"/>
 		</attributes>
